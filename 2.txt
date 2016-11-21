@@ -1,1 +1,3 @@
 2nd file
+furfyrka
+commit amend new line
