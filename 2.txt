@@ -1,2 +1,5 @@
 2nd file
 conflict change
+furfyrka
+commit amend new line
+
