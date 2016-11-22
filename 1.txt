@@ -1,2 +1,7 @@
+<<<<<<< eecf6ebfce45ee34a69c24fc74dfeda7d700c943
 HEAD
 changedasdas
+=======
+First row
+second changedasdassdf
+>>>>>>> commit 4
