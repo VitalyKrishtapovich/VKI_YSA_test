@@ -1,11 +1,1 @@
-<<<<<<< eecf6ebfce45ee34a69c24fc74dfeda7d700c943
-HEAD
-<<<<<<< HEAD
-changedasdafsdfsd
-=======
-changedasdas
-=======
 First row
-second changedasdassdf
->>>>>>> commit 4
->>>>>>> 6cddeb7d1740d2ba853278289ecdc4be5563e0bf
